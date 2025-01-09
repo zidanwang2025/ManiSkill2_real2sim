@@ -1,0 +1,32 @@
+# Blender 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl None
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /Users/zidan/miniconda3/pkgs/bullet-cpp-3.25-py310h1122e39_3/opt/bullet/data/banana.png
+
+newmtl color_15708628
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd /Users/zidan/Downloads/textures/tiger.jpg
+
+newmtl color_16768282.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd /Users/zidan/Desktop/yellow_paper.png
