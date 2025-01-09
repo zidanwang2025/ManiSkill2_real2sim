@@ -1,5 +1,8 @@
 # ManiSkill2-Real2Sim
 
+## About This Repository
+This repository is forked from [simpler-env/ManiSkill2_real2sim](https://github.com/simpler-env/ManiSkill2_real2sim) and includes some added objects and tasks.
+
 This repository is forked from the [original ManiSkill2 repo](https://github.com/haosulab/ManiSkill2), with the following changes:
 - **Environment** (`mani_skill2_real2sim/envs`): We removed all environments irrelevant to real-to-sim evaluation, and we implemented real-to-sim evaluation environments under `mani_skill2_real2sim/envs/custom_scenes`. These custom environments act as an independent component of ManiSkill2, allowing for automatic integration into the original ManiSkill2 repository without necessitating any modifications.
 - **Robot agents**: We added new robot implementations in `mani_skill2_real2sim/agents/configs` and `mani_skill2_real2sim/agents/robots`. The corresponding robot assets (URDFs) are in `mani_skill2_real2sim/assets/descriptions`.
